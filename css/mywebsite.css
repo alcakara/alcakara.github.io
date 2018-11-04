@@ -1,3 +1,51 @@
-.card-title {
-text-align: center;
-}
+.skill-progress {
+	font-size: 20;
+	}
+
+.my-name {
+	font-size: 30;
+	}
+
+.h2-title {
+	font-size: 24;
+	}
+
+.h3-title {
+	font-size: 22;
+	}
+
+.purple-words {
+	color: #AF7AC5;
+	margin: 0;
+	}
+
+.blue-words {
+	font-size: 14;
+	color: #5EB1D4;
+	}
+
+.dark-blue-words {
+	color: #175AB3;
+	}
+
+.dark-purple-words {
+	color: #672EA1;
+	margin: 0;
+	}
+
+.skill-name {
+	font-size: 16;
+	}
+
+.contact-button {
+	border: none;
+	outline: 0;
+	display: inline-block;
+	padding: 8px;
+	color: white;
+	background-color: #6f42c1;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+	font-size: 18px;
+	}
